@@ -1,7 +1,6 @@
 ### Olá eu sou o Lucas👋
 
 - 🔭 Hoje trabalho com desenvolvimento Back-end Java
-- 🌱 Estudando atualmente NodeJs e ReactJs
 
 <div align="center">
   <a href="https://github.com/lucasVasconcelosRocha">
